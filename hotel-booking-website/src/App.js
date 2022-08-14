@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   BrowserRouter,
   Routes,
@@ -19,4 +20,4 @@ function App() {
   );
 }
 
-export default App; 
+export default App;
