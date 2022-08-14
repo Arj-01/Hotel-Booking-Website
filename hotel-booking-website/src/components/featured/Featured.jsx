@@ -1,4 +1,5 @@
 import "./featured.css";
+import React from 'react';
 
 const Featured = () => {
   return (
