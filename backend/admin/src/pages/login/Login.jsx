@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../../context/AuthContext";
 // import { AuthContext } from "../../context/AuthContext";
 import "./login.scss";
+import React from 'react';
 
 const Login = () => {
   const [credentials, setCredentials] = useState({
